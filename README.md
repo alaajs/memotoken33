@@ -21,11 +21,11 @@ redis-server
 ```
 🗯┇  اتركه مفتوح وافتح ترمنال ثاني وخلي
 ```sh
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/alaajs/memotoken33.git
 ```
 🗯┇  وراها هاي
 ```sh
-cd TH3BOSS
+cd memotoken33
 ```
 🗯┇  وراها هاي 
 ```sh
